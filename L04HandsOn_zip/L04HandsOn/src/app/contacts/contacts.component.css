@@ -1,0 +1,9 @@
+h1{
+    font-weight:700;
+}
+
+li{
+    border: dashed;
+    color: red;
+    padding: 10px;
+}
